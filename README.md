@@ -58,12 +58,9 @@ MoodSync's technical prowess is grounded in deep learning and computer vision, f
 - Optimization: Optimize performance for smooth real-time emotion detection on various hardware configurations.
 
 ## Example 🎪 
-![image](https://github.com/Raja244/MoodSync/assets/65381335/06a72e85-fb5e-4a6e-9818-60e7e3008d7e)
-![image](https://github.com/Raja244/MoodSync/assets/65381335/1e4c6610-d6ce-473f-8348-ca304f8092be)
-![image](https://github.com/Raja244/MoodSync/assets/65381335/2ae6afc9-40bb-4e00-bbbd-d7ad1ab7ffd7)
-![image](https://github.com/Raja244/MoodSync/assets/65381335/18dc2ba8-9b75-48dd-b535-1dc1f10082be)
-![image](https://github.com/Raja244/MoodSync/assets/65381335/60f0a25e-2b7e-4e29-84d9-988398411f10)
-![image](https://github.com/Raja244/MoodSync/assets/65381335/c09e5b3e-2461-451e-8615-d30a59fd5f9e)
+![image](https://github.com/Raja244/MoodSync/assets/65381335/06a72e85-fb5e-4a6e-9818-60e7e3008d7e) ![image](https://github.com/Raja244/MoodSync/assets/65381335/1e4c6610-d6ce-473f-8348-ca304f8092be)
+![image](https://github.com/Raja244/MoodSync/assets/65381335/2ae6afc9-40bb-4e00-bbbd-d7ad1ab7ffd7) ![image](https://github.com/Raja244/MoodSync/assets/65381335/18dc2ba8-9b75-48dd-b535-1dc1f10082be)
+![image](https://github.com/Raja244/MoodSync/assets/65381335/60f0a25e-2b7e-4e29-84d9-988398411f10) ![image](https://github.com/Raja244/MoodSync/assets/65381335/c09e5b3e-2461-451e-8615-d30a59fd5f9e)
 
 
 ## Conclusion 🌟
